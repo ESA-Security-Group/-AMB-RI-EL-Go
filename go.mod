@@ -18,7 +18,7 @@ require (
 	cloud.google.com/go v0.50.0
 	contrib.go.opencensus.io/exporter/aws v0.0.0-20180906190126-dd54a7ef511e
 	contrib.go.opencensus.io/exporter/stackdriver v0.6.0
-	github.com/GoogleCloudPlatform/cloudsql-proxy v0.0.0-20181009230506-ac834ce67862
+	github.com/GoogleCloudPlatform/cloudsql-proxy a9864b03c326
 	github.com/aws/aws-sdk-go v1.15.57
 	github.com/coreos/bbolt v1.3.1-coreos.6 // indirect
 	github.com/coreos/etcd v3.3.10+incompatible
