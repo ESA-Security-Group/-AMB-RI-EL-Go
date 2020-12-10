@@ -7,7 +7,7 @@ require (
 	cloud.google.com/go/pubsub v1.0.1
 	git.apache.org/thrift.git v0.0.0-20180902110319-2566ecd5d999 // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/google/go-cloud v0.4.0
+	github.com/google/go-cloud v0.21.0
 	github.com/google/go-cmp v0.3.0
 	github.com/google/go-github v17.0.0+incompatible
 	github.com/google/go-querystring v1.0.0 // indirect
