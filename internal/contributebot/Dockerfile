@@ -15,7 +15,7 @@
 # This Dockerfile expects to have the context of the whole repository.
 
 # Step 1: Build Go binary.
-FROM golang:1.11beta3 as build
+FROM golang:1.16 as build
 ENV GO111MODULE on
 COPY . /go/src/go-cloud
 WORKDIR /go/src/go-cloud/internal/contributebot
