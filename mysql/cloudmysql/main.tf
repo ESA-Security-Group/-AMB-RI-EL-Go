@@ -15,7 +15,7 @@
 # Harness for MySQL tests.
 
 terraform {
-  required_version = "~>0.11"
+  required_version = "~>0.15"
 }
 
 provider "google" {
