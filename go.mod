@@ -75,7 +75,7 @@ require (
 	golang.org/x/sys v0.0.0-20181011152604-fa43e7bc11ba // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	golang.org/x/tools ecd32218bd7f
-	google.golang.org/api v0.14.0
+	google.golang.org/api v0.48.0
 	google.golang.org/appengine v1.2.0 // indirect
 	google.golang.org/genproto 3caeed10a8bf
 	google.golang.org/grpc v1.15.0
